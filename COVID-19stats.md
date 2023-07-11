@@ -1,8 +1,14 @@
-### COVID-19 Total Cases Correlations
-COVID-19 pandemic started in Wuhan, China and quickly spread across the globe. Many research and studies were conducted to help better slow down and hopefully, cease the spread. The dataset was given by Tech Academy and the data was analysed using Python. 
+### COVID-19 New Cases Statistics
+COVID-19 pandemic started in Wuhan, China in 2019. It quickly spread across the globe. Statistical analysis comparing the countries and the average of new cases that occured in them was performed. The dataset was given by Tech Academy and the data was analysed using Python. 
 
-To best analyze the changes that happened over time, the 'date' column of the dataset was separated into 'year', 'month', and 'day' columns.
-<img src="imgs/rc-245/1.png?raw=true"/>
+Initially how the average of new cases varied within continents was performed. 
+<img src="imgs/rc-243/1.png?raw=true"/>
+<img src="imgs/rc-243/2.png?raw=true"/>
+<img src="imgs/rc-243/3.png?raw=true"/>
+<img src="imgs/rc-243/4.png?raw=true"/>
+<img src="imgs/rc-243/continents.png?raw=true"/>
+<br>
+South America had the highest average new case rate followed by North America.
 
 How vaccination rate affected the number of total cases was analyzed first. 
 <img src="imgs/rc-245/2.png?raw=true"/>

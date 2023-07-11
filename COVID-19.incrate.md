@@ -26,7 +26,6 @@ smoking and the number of total COVID-19 cases
 <img src="imgs/rc-245/10.png?raw=true"/>
 
 Age was another factor that was analyzed. 
-<img src="imgs/rc-245/10.png?raw=true"/>
 <img src="imgs/rc-245/11.png?raw=true"/>
 <img src="imgs/rc-245/12.png?raw=true"/>
 <img src="imgs/rc-245/med age and total cases.png?raw=true"/>

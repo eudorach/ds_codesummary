@@ -21,5 +21,12 @@ The next criteria examined was how smoking affects the total number of cases.
 <img src="imgs/rc-245/9.png?raw=true"/>
 <img src="imgs/rc-245/male smokers and total cases.png?raw=true"/>
 <br>
-The correlation coefficients for these columns were also computed.
+The correlation coefficients for these columns were also computed, which showed that there are no strong correlation between
+smoking and the number of total COVID-19 cases
 <img src="imgs/rc-245/10.png?raw=true"/>
+
+Age was another factor that was analyzed. 
+<img src="imgs/rc-245/10.png?raw=true"/>
+<img src="imgs/rc-245/11.png?raw=true"/>
+<img src="imgs/rc-245/12.png?raw=true"/>
+<img src="imgs/rc-245/med age and total cases.png?raw=true"/>

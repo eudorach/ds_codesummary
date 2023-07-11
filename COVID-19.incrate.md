@@ -10,7 +10,7 @@ How vaccination rate affected the number of total cases was analyzed first.
 <img src="imgs/rc-245/3.png?raw=true"/>
 <img src="imgs/rc-245/4.png?raw=true"/>
 <img src="imgs/rc-245/vaccinations and total cases in 2021.png?raw=true"/>
-The number of vaccinations as well as total cases increased over time. 
+<br> The number of vaccinations as well as total cases increased over time. 
 
 The next criteria examined was how smoking affects the total number of cases. 
 <img src="imgs/rc-245/5.png?raw=true"/>
@@ -20,3 +20,6 @@ The next criteria examined was how smoking affects the total number of cases.
 <img src="imgs/rc-245/female smokers and total cases.png?raw=true"/>
 <img src="imgs/rc-245/9.png?raw=true"/>
 <img src="imgs/rc-245/male smokers and total cases.png?raw=true"/>
+<br>
+The correlation coefficients for these columns were also computed.
+<img src="imgs/rc-245/10.png?raw=true"/>

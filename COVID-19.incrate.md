@@ -1,6 +1,8 @@
 ### COVID-19 Total Cases Correlations
 COVID-19 pandemic started in Wuhan, China and quickly spread across the globe. Many research and studies were conducted to help better slow down and hopefully, cease the spread. The dataset was given by Tech Academy and the data was analysed using Python. 
 
+Python Imports:
+<img src="imgs/rc-245/1.1.png?raw=true"/>
 To best analyze the changes that happened over time, the 'date' column of the dataset was separated into 'year', 'month', and 'day' columns.
 <img src="imgs/rc-245/1.png?raw=true"/>
 

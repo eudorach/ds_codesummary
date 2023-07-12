@@ -10,6 +10,11 @@ Initially how the average of new cases varied within continents was performed.
 <br>
 South America had the highest average new case rate followed by North America.
 
-Each continents were separated into individual datasets and the average of new cases were plotted.
-<<img src="imgs/rc-243/5.png?raw=true"/>
+Each continents were separated into individual datasets and the average of new cases were plotted. Same methods were applied to all of the continents
+<img src="imgs/rc-243/5.png?raw=true"/>
 <img src="imgs/rc-243/6.png?raw=true"/>
+<img src="imgs/rc-243/7.png?raw=true"/>
+<img src="imgs/rc-243/8.png?raw=true"/>
+<img src="imgs/rc-243/9.png?raw=true"/>
+<img src="imgs/rc-243/10.png?raw=true"/>
+<img src="imgs/rc-243/11.png?raw=true"/>

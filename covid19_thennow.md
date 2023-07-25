@@ -5,5 +5,15 @@ COVID-19 was first discovered in 2019. From then until now, there has been vario
 
 <img src="imgs/rc-244/1.png?raw=true"/>
 <img src="imgs/rc-244/2.png?raw=true"/>
+<br>
+The average of new cases was computed and sorted to display the lowest 10 countries. These countries were separated into a new dataset and plotted against time.
+<br>
 <img src="imgs/rc-244/3.png?raw=true"/>
 <img src="imgs/rc-244/4.png?raw=true"/>
+<img src="imgs/rc-244/5.png?raw=true"/>
+<br>
+The same methodologies were applied to display the top 10 countries with highest average new cases.
+<br>
+<img src="imgs/rc-244/6.png?raw=true"/>
+<img src="imgs/rc-244/7.png?raw=true"/>
+<img src="imgs/rc-244/8.png?raw=true"/>

@@ -19,7 +19,7 @@ Looking at these 10 countries with the lowest average of new cases, how the tota
 <img src="imgs/rc-244/11.png?raw=true"/>
 <img src="imgs/rc-244/12.png?raw=true"/>
 <br>
-The correlation table shows that there are some significant correlation seen with new cases and some of the variables. There are weak positive correlations with new cases and median age, GDP per capita, and handwashing facilities. With increase in these factors, there are also increase in the number of new cases observed. There are weak negative correlation between new cases and new vaccinations and extreme poverty quotient. With increase in these variables, there are decrease in the number of new cases. These two factors most likely contribute to improving slowdown of the spread of the COVID-19 virus.
+The correlation table shows that there are some significant correlation seen with new cases and some of the variables. There are weak positive correlations with new cases and median age, GDP per capita, and handwashing facilities. With increase in these factors, there are also increase in the number of new cases observed. There are weak negative correlation between new cases and new vaccinations and extreme poverty quotient. With increase in these variables, there are decrease in the number of new cases. These two factors most likely contribute to improving slowdown of the spread of the COVID-19 virus. In countries that have low new case rates, number of new vaccinations seems to be impactful in slowing down the spread of the COVID-19 virus. We will now evaluate how the countries with high rates of new cases have responded, and what measures were effective.
 <br>
 <br>
 The same methodologies were applied to display the top 10 countries with highest average new cases.
@@ -30,4 +30,6 @@ The same methodologies were applied to display the top 10 countries with highest
 <img src="imgs/rc-244/13.png?raw=true"/>
 <img src="imgs/rc-244/14.png?raw=true"/>
 <br>
-The correlation table for the highest average of new cases shows a weak negative correlation between new cases and handwashings stations. With increase in hand washing stations, the number of new cases decreased. The vaccination rates seem to have some positive correlation but it does not appear to be strong enough (0.22).
+The correlation table for the highest average of new cases shows a weak negative correlation between new cases and handwashings stations. With increase in hand washing stations, the number of new cases decreased. The vaccination rates seem to have some positive correlation but it does not appear to be strong enough (0.22). Interestingly, in countries with the highest rates of new cases, the number of handwashing stations was the effective measure in slowing down the spread of COVID-19.
+
+

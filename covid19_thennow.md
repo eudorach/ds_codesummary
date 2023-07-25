@@ -30,6 +30,6 @@ The same methodologies were applied to display the top 10 countries with highest
 <img src="imgs/rc-244/13.png?raw=true"/>
 <img src="imgs/rc-244/14.png?raw=true"/>
 <br>
-The correlation table for the highest average of new cases shows a weak negative correlation between new cases and handwashings stations. With increase in hand washing stations, the number of new cases decreased. The vaccination rates seem to have some positive correlation but it does not appear to be strong enough (0.22). Interestingly, in countries with the highest rates of new cases, the number of handwashing stations was the effective measure in slowing down the spread of COVID-19.
+The correlation table for the highest average of new cases shows a weak negative correlation between new cases and handwashings stations. With increase in hand washing stations, the number of new cases decreased. The vaccination rates seem to have some positive correlation but it does not appear to be strong enough (0.22). Interestingly, in countries with the highest rates of new cases, the number of handwashing facilities was the effective measure in slowing down the spread of COVID-19. There may need to be more data collected to best evaluate how the spread of COVID-19 correlate with various factors. Perhaps climate can contribute to slowing down of the spread.
 
 

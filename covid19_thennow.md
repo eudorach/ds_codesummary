@@ -21,6 +21,7 @@ Looking at these 10 countries with the lowest average of new cases, how the tota
 <br>
 The correlation table shows that there are some significant correlation seen with new cases and some of the variables. There are weak positive correlations with new cases and median age, GDP per capita, and handwashing facilities. With increase in these factors, there are also increase in the number of new cases observed. There are weak negative correlation between new cases and new vaccinations and extreme poverty quotient. With increase in these variables, there are decrease in the number of new cases. These two factors most likely contribute to improving slowdown of the spread of the COVID-19 virus.
 <br>
+<br>
 The same methodologies were applied to display the top 10 countries with highest average new cases.
 <br>
 <img src="imgs/rc-244/6.png?raw=true"/>

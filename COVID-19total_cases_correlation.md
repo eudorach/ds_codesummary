@@ -47,5 +47,5 @@ The outliers were removed for a more reliable result. There appears to be a tren
 <img src="imgs/rc-245/12.png?raw=true"/>
 <img src="imgs/rc-245/med age and total cases.png?raw=true"/>
 
-Correlation table was created which shows weak correlation between the total cases and age, in all of the different age groups. People who are older are more likely to be infected with the virus. 
+Correlation table was created which shows weak positive correlation between the total cases and age, in all of the different age groups. People who are older are more likely to be infected with the virus. 
 <img src="imgs/rc-245/17.png?raw=true"/>

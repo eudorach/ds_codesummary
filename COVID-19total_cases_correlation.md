@@ -23,7 +23,7 @@ The slopes of both total vaccinations and total cases were computed. The slope o
 <img src="imgs/rc-245/15.png?raw=true"/>
 <img src="imgs/rc-245/14.png?raw=true"/>
 
-There is a positive correlation between the total cases and total vaccinations. It appears that the increase in number of total cases is causing the vaccination numbers to increase.
+There is a strong positive correlation between the total cases and total vaccinations. It appears that the increase in number of total cases is causing the vaccination numbers to increase.
 <img src="imgs/rc-245/16.png?raw=true"/>
 
 The next criteria examined was how smoking affects the total number of cases. 

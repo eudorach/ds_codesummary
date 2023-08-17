@@ -43,6 +43,9 @@ smoking and the number of total COVID-19 cases. However, there is a weak correla
 Age was another factor that was analyzed.
 <img src="imgs/rc-245/11.png?raw=true"/>
 
-The outliers were removed for a more consistent 
+The outliers were removed for a more reliable result. There appears to be a trend, with increased number of cases with advancement of age.
 <img src="imgs/rc-245/12.png?raw=true"/>
 <img src="imgs/rc-245/med age and total cases.png?raw=true"/>
+
+Correlation table was created which shows weak correlation between the total cases and age, in all of the different age groups. People who are older are more likely to be infected with the virus. 
+<img src="imgs/rc-245/17.png?raw=true"/>

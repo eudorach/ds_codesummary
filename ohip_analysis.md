@@ -2,9 +2,11 @@
 Orthognathic surgery is performed on patients with significant dentofacial deformities. The dentofacial deformities include severe underbites and severe overbites that require surgical correction. OHIP-14 questionnaire is often given to the patients to evaluate their quality of life
 after the surgical intervention. The question is, does the OHIP-14 scores improve after surgery? 
 
+First I imported the necessary libraries for the analysis. I also ensured that the working directory was correct to continue proceeding with the necessary file imports and data analysis. 
 <img src="imgs/ohip/OHIP_1.PNG?raw=true"/>
+
+The CSV file was imported using pandas. The initial dataset was sizable with 932 columns. I wanted to see what the columns' names were. 
 <img src="imgs/ohip/OHIP_2.PNG?raw=true"/>
-<img src="imgs/ohip/OHIP_3.PNG?raw=true"/>
 <img src="imgs/ohip/OHIP_4.PNG?raw=true"/>
 <img src="imgs/ohip/OHIP_5.PNG?raw=true"/>
 <img src="imgs/ohip/OHIP_6.PNG?raw=true"/>

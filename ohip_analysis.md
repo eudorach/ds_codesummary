@@ -8,6 +8,8 @@ First I imported the necessary libraries for the analysis. I also ensured that t
 The CSV file was imported using pandas. The initial dataset was sizable with 932 columns. I wanted to see what the columns' names were. 
 <img src="imgs/ohip/OHIP_2.PNG?raw=true"/>
 <img src="imgs/ohip/OHIP_4.PNG?raw=true"/>
+
+Another dataframe was created with columns only containing the word 'ohip'.
 <img src="imgs/ohip/OHIP_5.PNG?raw=true"/>
 <img src="imgs/ohip/OHIP_6.PNG?raw=true"/>
 <img src="imgs/ohip/OHIP_7.PNG?raw=true"/>

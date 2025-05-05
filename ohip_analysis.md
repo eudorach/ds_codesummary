@@ -46,13 +46,13 @@ The next step for analysis was to group the time points together to plot how thi
 
 Then I wanted to break it down from initial to POM 6 and POM 6 to POM 12 for a more detailed look at the data. Initially, only the subjects with both data points were assessed then all of the subjects were visualized.
 <img src="imgs/ohip/OHIP_20.PNG?raw=true"/>
-<img src="imgs/ohip/ohip_pom6_pom12.png?raw=true"/>
+<img src="imgs/ohip/ohip_score_initial_pom6.png?raw=true"/>
 <img src="imgs/ohip/OHIP_21.PNG?raw=true"/>
-ohip_change_pom6_pom12
+<img src="imgs/ohip/ohip_change_pom6_pom12.png?raw=true"/>
 <img src="imgs/ohip/OHIP_22.PNG?raw=true"/>
-ohip_initial_pom6_all
+<img src="imgs/ohip/ohip_initial_pom6_all.png?raw=true"/>
 <img src="imgs/ohip/OHIP_23.PNG?raw=true"/>
-ohip_pom6_pom12_all
+<img src="imgs/ohip/ohip_pom6_pom12_all.png?raw=true"/>
 
 Once the data was visualized to better understand the data, the statistical analysis was performed. Because it is not a normalized data and it is the same subjects with multiple data points, Wilcoxon test was chosen for analysis. The statistical test showed that initial to POM 6 OHIP score change from initial visit (preoperative) to POM 6 was statistically significant wheras the score change from POM 6 to POM 12 was not. 
 <img src="imgs/ohip/OHIP_24.PNG?raw=true"/>

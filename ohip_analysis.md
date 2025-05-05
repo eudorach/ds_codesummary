@@ -2,7 +2,7 @@
 Orthognathic surgery is performed on patients with significant dentofacial deformities. The dentofacial deformities include severe underbites and severe overbites that require surgical correction. OHIP-14 questionnaire is often given to the patients to evaluate their quality of life
 after the surgical intervention. The question is, does the OHIP-14 scores improve after surgery? 
 
-<img src="imgs/ohip/OHIP_1.png?raw=true"/>
+<img src="imgs/ohip/OHIP_1.PNG?raw=true"/>
 <img src="imgs/ohip/OHIP_2.png?raw=true"/>
 <img src="imgs/ohip/OHIP_3.png?raw=true"/>
 <img src="imgs/ohip/OHIP_4.png?raw=true"/>

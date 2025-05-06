@@ -12,7 +12,6 @@ on how patients sleep at night?
 <img src="imgs/epworth/epwort_4.PNG?raw=true"/>
 <img src="imgs/epworth/epworth_initial_pom6_pom12.png?raw=true"/>
 <img src="imgs/epworth/epwort_7.PNG?raw=true"/>
-<img src="imgs/epworth/epwort_8.PNG?raw=true"/>
 
 The data analysis shows that there is no significant change in the Epworth Scores from preoperative to postoperative (either POM 6 or POM 12). Since the Epworth score
 is assessing overall sleepiness, there are too many variables that contribute to reduced quality of sleep. It would be best to find another way to measure how well

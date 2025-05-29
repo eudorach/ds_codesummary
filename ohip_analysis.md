@@ -1,6 +1,10 @@
 ### Oral Health Impact Profile-14 (OHIP-14) Analysis on Postoperative Patients
-Orthognathic surgery is performed on patients with significant dentofacial deformities. The dentofacial deformities include severe underbites and severe overbites that require surgical correction. OHIP-14 questionnaire is often given to the patients to evaluate their quality of life
-after the surgical intervention. The question is, does the OHIP-14 scores improve after surgery? 
+Orthognathic surgery is a surgical procedure performed on the jaws to correct their misalignment. Mild misalignment of the teeth or the jaws does not impact the quality of life significantly. However,
+severe misalignment can cause difficulty with average daily living (ADL) functions such as biting through and chewing food. It can also cause frequent tongue or cheek biting which can cause discomfort
+in the mouth. Orthognathic surgery is an elective but an important surgery that can improve the quality of life in a person with severe dentofacial deformity. One way to gauge how the quality of life 
+changes after surgery is by Oral Health Impact Profile (OHIP) questionnaires. The question posed is, is there a significant improvement in the OHIP scores after surgery? 
+
+The initial stage of data collection was done by exporting data from the REDcap database in Excel/CSV form. 
 
 First I imported the necessary libraries for the analysis. I also ensured that the working directory was correct to continue proceeding with the necessary file imports and data analysis. 
 <img src="imgs/ohip/OHIP_1.PNG?raw=true"/>

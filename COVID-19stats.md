@@ -22,17 +22,17 @@ The dataset includes daily reported new COVID-19 cases for multiple countries, g
 
 * Statistical summary: For each continent, the average (mean) daily new cases were calculated.
 
-* Visualization: Line plots and bar charts were created to compare new case averages across continents.
+* Visualization: bar charts were created to compare new case averages across continents.
 
 Python libraries such as pandas and matplotlib (or seaborn) were used for data manipulation and visualization.
 
-Initially how the average of new cases varied within continents was performed. 
 <img src="imgs/rc-243/1.png?raw=true"/>
 <img src="imgs/rc-243/2.png?raw=true"/>
 <img src="imgs/rc-243/3.png?raw=true"/>
 <img src="imgs/rc-243/4.png?raw=true"/>
 <img src="imgs/rc-243/continents.png?raw=true"/>
 <br>
+
 South America had the highest average new case rate followed by North America.
 
 ## Results

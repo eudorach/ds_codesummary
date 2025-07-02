@@ -18,11 +18,11 @@ This analysis explores the average daily new COVID-19 cases across different con
 
 The dataset includes daily reported new COVID-19 cases for multiple countries, grouped by continent. The key steps in the analysis were:
 
-Data segmentation: The dataset was split into subsets based on continent.
+* Data segmentation: The dataset was split into subsets based on continent.
 
-Statistical summary: For each continent, the average (mean) daily new cases were calculated.
+* Statistical summary: For each continent, the average (mean) daily new cases were calculated.
 
-Visualization: Line plots and bar charts were created to compare new case averages across continents.
+* Visualization: Line plots and bar charts were created to compare new case averages across continents.
 
 Python libraries such as pandas and matplotlib (or seaborn) were used for data manipulation and visualization.
 
@@ -36,7 +36,13 @@ Initially how the average of new cases varied within continents was performed.
 South America had the highest average new case rate followed by North America.
 
 ## Results
-Each continents were separated into individual datasets and the average of new cases were plotted. Same methods were applied to all of the continents
+* South America had the highest average daily new COVID-19 cases among all continents.
+
+* North America followed, showing the second-highest average.
+
+* Other continents had lower average new cases compared to these two.
+
+Within each continent, individual country trends and averages were visualized to explore variability and identify hotspots.
 <img src="imgs/rc-243/5.png?raw=true"/>
 <img src="imgs/rc-243/6.png?raw=true"/>
 <img src="imgs/rc-243/7.png?raw=true"/>

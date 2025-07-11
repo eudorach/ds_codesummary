@@ -10,9 +10,8 @@ The goal was to evaluate the patient recovery trajectory and determine whether e
 
 ## 🎯 Objectives
 
-- Assess trends in OHIP-14 scores post-surgery
-- Identify statistically significant changes over time
-- Determine if early recovery (month 3) is a meaningful outcome window
+- Assess whether OHIP-14 total scores significantly improve from baseline (preoperative) to postoperative follow-ups.
+- Compare OHIP-14 scores at 3, 6, and 12 months postoperatively.
 - Support future study design with evidence-backed recommendations
 
 ---
@@ -32,10 +31,9 @@ The goal was to evaluate the patient recovery trajectory and determine whether e
 1. **Data Preparation**  
    - Imported de-identified OHIP-14 data from REDCap exports  
    - Cleaned data: managed missing values, ensured longitudinal consistency  
-   - Mapped OHIP item responses into domain scores (e.g., functional limitation, psychological discomfort)
 
 2. **Statistical Analysis**  
-   - Calculated mean OHIP-14 scores at each timepoint (3, 6, 12 months)  
+   - Used the median value to assess for statistical significance due to a small sample size  
    - Visualized score trends using line plots  
    - Assessed changes using basic comparative statistics (e.g., paired t-tests or difference-in-means)
 

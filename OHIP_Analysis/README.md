@@ -1,84 +1,49 @@
-# OHIP-14 Surgical Outcomes Analysis
+# 🦷 Longitudinal Analysis of Oral Health-Related Quality of Life Using OHIP-14
 
 ## 📘 Overview
 
-This project analyzes oral health–related quality of life (OHRQoL) following orthognathic (jaw) surgery using the OHIP-14 survey instrument. Data were collected at 3, 6, and 12-month postoperative timepoints as part of an NIH-led craniofacial research protocol.
+This project analyzes changes in oral health–related quality of life (OHRQoL) following orthognathic (jaw) surgery, using the OHIP-14 survey instrument. Data were collected at three key timepoints: **pre-op**, **1 week post-op**, and **1 month post-op**. 
 
-The goal was to evaluate the patient recovery trajectory and determine whether early improvements in OHRQoL were statistically and clinically significant.
+The goal was to evaluate whether surgery leads to statistically and clinically meaningful improvements across multiple domains, using patient-reported outcomes (PROs) in a real-world longitudinal setting.
 
 ---
 
 ## 🎯 Objectives
 
-- Assess whether OHIP-14 total scores significantly improve from baseline (preoperative) to postoperative follow-ups.
-- Compare OHIP-14 scores at 3, 6, and 12 months postoperatively.
-- Support future study design with evidence-backed recommendations
+- Assess trends in OHIP-14 scores over time following surgery
+- Identify domains with statistically significant change
+- Determine when the most rapid improvement in OHRQoL occurs
+- Support the clinical understanding of recovery trajectories
 
 ---
 
 ## 🧰 Tools & Technologies
 
 - Python (Pandas, Matplotlib, Seaborn)
-- REDCap (data collection)
 - Jupyter Notebook
-- Clinical research best practices
-- Basic statistical testing (paired comparisons, descriptive stats)
+- Statistical testing (paired t-tests, slope calculations)
+- Visualizations of patient recovery trajectories
 
 ---
 
 ## 📊 Methods
 
-1. **Data Preparation**  
-   - Imported de-identified OHIP-14 data from REDCap exports  
-   - Cleaned data: managed missing values, ensured longitudinal consistency  
+1. **Data Preparation**
+   - Cleaned and reshaped OHIP-14 data for three postoperative timepoints
+   - Verified scoring system for the OHIP-14 instrument
+   - Converted long-format survey data into a format suitable for plotting and comparison
 
-2. **Statistical Analysis**  
-   - Used the median value to assess for statistical significance due to a small sample size  
-   - Visualized score trends using line plots  
-   - Assessed changes using basic comparative statistics (e.g., paired t-tests or difference-in-means)
+2. **Analysis & Visualization**
+   - Computed summary statistics by domain and timepoint
+   - Performed paired t-tests between baseline and follow-up scores
+   - Calculated slopes of score change to assess rate of recovery
+   - Visualized trends in both total OHIP scores and domain-specific changes
 
 ---
 
 ## 💡 Key Findings
 
-- Statistically significant improvement in OHRQoL by **month 3** post-surgery  
-- Minimal additional improvements observed at months 6 and 12  
-- Suggests early recovery as a key phase in patient outcome trajectories  
-- Proposed using **3-month follow-up** as a meaningful primary endpoint in future studies
-
----
-
-## ⚠️ Limitations
-
-- Small sample size may limit generalizability  
-- Missing data at certain timepoints reduced completeness  
-- Limited demographic diversity in the dataset  
-- Future protocols may benefit from increased early follow-up frequency and broader patient inclusion
-
----
-
-## 🧭 Next Steps
-
-- Explore subgroup analysis (e.g., age, gender, surgical type)
-- Expand study to include larger patient cohort
-- Consider validating findings against other PROMs (e.g., SF-36, EQ-5D)
-
----
-
-## 👩‍⚕️ About the Author
-
-I’m a certified Physician Assistant supporting NIH surgical outcomes research with a growing focus on clinical data analysis and health informatics. This project is part of my transition portfolio into data analytics roles focused on healthcare and real-world evidence.
-
----
-
-## 📁 Files
-
-- `ohip_analysis.ipynb` – Jupyter notebook with full analysis workflow  
-- `ohip_cleaned.csv` – Cleaned de-identified OHIP-14 dataset (if shareable)  
-- `images/` – Visualizations and plots used in the analysis
-
----
-
-## 📬 Contact
-
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-name) or explore my portfolio at [GitHub](https://github.com/your-username).
+- Significant reductions in total OHIP-14 scores were observed following surgery
+- The **steepest slope** of improvement occurred between **baseline and month 3**, suggesting rapid recovery in early postoperative phase
+- Continued improvement occurred through 1 year post-op, but at a slower rate
+- Psychological and functional

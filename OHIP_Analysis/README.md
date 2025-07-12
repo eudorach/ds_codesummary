@@ -76,7 +76,6 @@ I'm a certified Physician Assistant and NIH research professional transitioning 
 
 - `Longitudinal Analysis of OHIP.ipynb` – Full notebook with data processing, visualizations, and interpretation  
 - `README.md` – Summary of methodology and findings  
-- *(Note: Data file not included due to privacy constraints)*
 
 ---
 
